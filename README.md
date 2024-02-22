@@ -5,5 +5,5 @@ A simple repository for Cloud Computing Lectures
 ## Subtitulo
 ### Subsubtitulo
 
-*Hola*
-**Hola**
+*Text en cursiva*
+**Texto en negritas**
